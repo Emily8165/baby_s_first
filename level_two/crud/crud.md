@@ -32,6 +32,5 @@ file type does not matter (txt or csv is preferred)
 . line 1: deleted!
 
 ## Learning Objectives
-- CRUD
-- ACID
-- Databases
+- Basic file input output
+- 
