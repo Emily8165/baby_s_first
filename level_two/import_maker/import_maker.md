@@ -31,3 +31,6 @@ If you fancy this one, have a look at this: https://www.w3schools.com/python/pyt
 You can assume the following:
    Only strings will be put into the program, unless you are adding the second nice to have. 
 
+## Learning Objectives
+1. Functions and scope
+2. Error handling
